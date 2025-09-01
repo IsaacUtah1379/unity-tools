@@ -1,2 +1,2 @@
 # unity-tools
-Various tools I've made in Unity that seem fairly reusable.
+Various tools I've made in Unity that seem fairly reusable. If you see something you like, grab a copy! Want to make changes? Fork the repository and edit away! (You can make a pull request if you want, but keep in mind that it could take me an *extremely* long time to do anything with it since I don't have a ton of spare time on my hands right now. Also, by submitting a pull request, you consent to having your code under the same license as the rest of the repository.)
